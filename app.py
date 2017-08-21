@@ -4,10 +4,7 @@ from dash.dependencies import Input, Output
 import dash_core_components as dcc
 import dash_html_components as html
 
-from datetime import datetime as dt
 import os
-from pandas_datareader import data as web
-import pandas as pd
 import plotly.graph_objs as go
 
 app = dash.Dash()
