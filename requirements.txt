@@ -27,7 +27,7 @@ dash-html-components==0.7.0
 dash-renderer==0.7.4
 dash.ly==0.15.2
 decorator==4.1.2
-Django==1.11.3
+Django==1.11.28
 entrypoints==0.2.3
 enum34==1.1.6
 finsymbols==1.1.1
