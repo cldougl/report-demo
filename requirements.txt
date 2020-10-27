@@ -18,7 +18,7 @@ click==6.7
 colorlover==0.2.1
 configparser==3.5.0
 coverage==4.4.1
-cryptography==1.9
+cryptography==3.2
 cufflinks==0.11.0
 cycler==0.10.0
 dash==0.17.7
